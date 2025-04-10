@@ -3,28 +3,4 @@
 
 # **EVEMon** 
 
-A lightweight, easy-to-use standalone Windows application designed to assist you in keeping track of your EVE Online character progression.
-
-For complete info on *How To Contribute* please visit the [wiki](https://bitbucket.org/EVEMonDevTeam/evemon/wiki) section
-
-**Maintainer of the ESI fork:**
-
-[EVE:Peter Han](https://github.com/peterhaneve/evemon) (GitHub)
-
-**Owner:** 
-
-[EVEMonDevTeam](https://github.com/evemondevteam/) (GitHub)
-
-[EVEMonDevTeam](https://bitbucket.org/EVEMonDevTeam) (Bitbucket)
-
-**Website:** [EVEMon](https://evemondevteam.github.io/evemon/)
-
-**Documentation:** [EVEMon Docs](https://evemon.readthedocs.org/)
-
-**Feedback & Ideas:** [On UserVoice](https://evemon.uservoice.com/)
-
-**Admins:**
-
-[JimiC](https://github.com/JimiC) (GitHub)
-
-[Jimi C](https://bitbucket.org/Desmont_McCallock) (Bitbucket)
+This is my fork of the [https://github.com/peterhaneve/evemon](Evemon) program. My goal is to port the business logic over to .NET MAUI, to allow for a modern, sleeker, cross platform app that anyone can use. I've very new to MAUI so let me know if you have any questions or want to help!
